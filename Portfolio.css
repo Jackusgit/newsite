@@ -1,0 +1,50 @@
+ .container1 {
+    background-color:black; width: 1500px; height: 120px;}  
+ .container2 {
+    background-color:rgb(255, 255, 255); width: 800px; height: 450px;}
+ .container3 {
+    background-color:rgba(239, 235, 237, 0.882); width: 1500px; height: 600px;}
+ .container4 {
+    background-color:rgba(239, 235, 237, 0.882); width: 350px; height: 250px;}
+.container5 {
+    background-color:rgba(253, 255, 255, 0.882); width: 500px; height: 250px;}
+    .container6 {
+    background-color:rgb(0, 0, 0); width: 1500px; height:650px;} 
+ .container7 {
+    background-color:rgba(239, 235, 237, 0.882); width: 1500px; height: 200px;}
+
+    .gauche {
+    color:white;
+    font-size: 20px;
+    margin-left: 100px;}
+
+ .droite1 {
+    color: rgb(185, 239, 185);
+    font-size: 10px;
+    margin-left: 800px;}
+   .droite2 {
+    color: rgb(185, 239, 185);
+    font-size: 10px;
+    margin-left: 30px;}
+ .droite3 {
+    color: rgb(185, 239, 185);
+    font-size: 10px;
+    margin-left: 30px;}
+ .droite4 {
+    color: rgb(185, 239, 185);
+    font-size: 10px;
+    margin-left: 30px;}
+ .droite5 {
+    color: rgb(185, 239, 185);
+    font-size: 10px;
+    margin-left: 30px;}
+
+ .gauche2 {
+    color:rgb(4, 4, 4);
+    font-size: 20px;
+    margin-left: 100px;}
+ .droite6 {
+    color:rgb(3, 3, 3);
+    font-size: 20px;
+    margin-left: 1200px;}
+
